@@ -28,7 +28,7 @@ Weekly posts about AI, systems thinking, and ambitious goals.
 ## Contact
 - **Email:** wakasa.lensen@gmail.com
 - **Twitter:** @lensenwakasa
-- **LinkedIn:** your-profile
+- **LinkedIn:** []
 - **Blog:** http://lensen.substack.com
 
 ---
