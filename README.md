@@ -22,14 +22,14 @@ AI-powered grading system for schools. Built with [tech stack].
 [More projects coming soon]
 
 ## Writing
-I document my journey on [Substack](your-link) and [Twitter](your-link).
+I document my journey on [Medium](https://medium.com/@wakasa.lensen) and [Twitter](https://x.com/lensenwakasa).
 Weekly posts about AI, systems thinking, and ambitious goals.
 
 ## Contact
 - **Email:** wakasa.lensen@gmail.com
 - **Twitter:** @lensenwakasa
-- **LinkedIn:** []
-- **Blog:** http://lensen.substack.com
+- **LinkedIn:** [https://www.linkedin.com/in/lensen-wakasa/]
+- **Blog:** [https://medium.com/@wakasa.lensen]
 
 ---
 
